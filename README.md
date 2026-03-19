@@ -1,4 +1,4 @@
-bn# Aternos AFKBot ✨  
+asdasdbn# Aternos AFKBot ✨  
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](/LICENSE)  
 ### This AFK Bot will keep your Aternos server alive 24/7.
 #### If you having any problems or errors with this, please let me know by creating an Issue.  
