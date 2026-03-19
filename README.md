@@ -16,7 +16,7 @@ What You'll need66
 ivxcvxcv
 2. An Aternos server or Any Minecraft server you owned.  
 	And make sure your server settings ``online-mode`` set to ``false``.
-3. A Github account.
+3. A Github account.jhj
 y
 g
 # Setup ⚙dfgfgdg
