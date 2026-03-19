@@ -12,7 +12,7 @@ What You'll need66
 	Sign up at: https://signup.heroku.com/login
 
 2. An UptimeRobot account. (It's also free and simple)  
-	Sign up at: https://uptimerobot.com/signUp
+	Sign up at: https://uptimerobot.com/signUpsss
 ivxcvxcv
 2. An Aternos server or Any Minecraft server you owned.  
 	And make sure your server settings ``online-mode`` set to ``false``.
