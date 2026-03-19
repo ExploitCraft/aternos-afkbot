@@ -22,7 +22,7 @@ g
 # Setup ⚙dfgfgdg
 1. Fork this repository, and edit the ``config.json`` file.sdf
 2. Go to https://dashboard.heroku.com/ and create a new application.sfg
-3. Once you've created a new application, Right click on the ``Open App`` button at the top and click a button like ``Copy Link``.
+3. Once you've created a new application, Right click on the ``Open App`` button at the top andsdf click a button like ``Copy Link``.
 4. Go to the ``Deploy`` section and select the repository that you forked.
 5. Select ``main`` and click on ``Deploy Branchsdf
 6. Click on the ``More`` button at the top and click ``Restart all Dynos``.
