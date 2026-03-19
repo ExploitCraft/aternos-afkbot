@@ -17,7 +17,7 @@ i
 2. An Aternos server or Any Minecraft server you owned.  
 	And make sure your server settings ``online-mode`` set to ``false``.
 3. A Github account.
-
+y
 
 # Setup ⚙
 1. Fork this repository, and edit the ``config.json`` file.
