@@ -1,4 +1,4 @@
-asdasdbn# Aternos AFKBot ✨  
+ggasdasdbn# Aternos AFKBot ✨  
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](/LICENSE)  
 ### This AFK Bot will keep your Aternos server alive 24/7.
 #### If you having any problems or errors with this, please let me know by creating an Issue.  
@@ -18,7 +18,7 @@ ivxcvxcv
 	And make sure your server settings ``online-mode`` set to ``false``.
 3. A Github account.
 y
-
+g
 # Setup ⚙dfgfgdg
 1. Fork this repository, and edit the ``config.json`` file.
 2. Go to https://dashboard.heroku.com/ and create a new application.
